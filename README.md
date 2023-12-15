@@ -1,22 +1,45 @@
-# Project/ App Title
-[This readme should contain details about you team and project. Please Feel free to modify and expand upon this template to suit the specific needs and details of your group project]
+# Adaptive Melodies: A User-Shift Preference Music Recommendation System
 
 ## Project description 
-Write a brief summary about the project here (what problem are you solving , whats your solution) including goals, and key features
+Adaptive Melodies focuses on enhancing music recommendations by addressing the dynamic nature of users' musical preferences. Our goal is to develop a system that not only recognizes but also adapts to shifts in listeners' tastes over time. Utilizing advanced techniques like Time-Decay Collaborative Filtering (TDCF) and Graph Neural Networks (GNNs), we aim to deliver more relevant and adaptive music suggestions.
 
 ## Table of Contents
 
+* Getting Started
+* Installation
+* Acknowledgement
+* Contact
+
+
 ## Getting Started 
-Explain how to get a copy of the project up and running on a local machine for development and testing purposes
+To run this project locally for development and testing:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
 
 ## Installation
-Step-by-step instructions on how to install and set up the project
+Follow these steps to set up the project:
+
+1. Install Python and necessary libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the setup script (not available yet).
+   
+3. Start the local server for backend (not available yet).
 
 ## Acknowledgments
-List and thank contributors, libraries, or resources that have been used or inspired the project
+Special thanks to:
+
+* Project Mentor: Tejumade Afonja
+* Contributors: Samuel Oyeneye
+* Libraries and resources: #nowplaying-RS benchmark data
+* Research author: Asmita Poddar and Eva Zangerle and Yi-Hsuan Yang
 
 ## Contact
-Provide contact information for the project maintainers or team members
+* Project Maintainer: samueloyeneye1@gmail.com 
 
 ## Requirements:
 Your project should involve the following components:
