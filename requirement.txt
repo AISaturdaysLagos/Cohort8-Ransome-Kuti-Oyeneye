@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+scipy
+surprise
+fastapi  # using FastAPI for the backend
+uvicorn
