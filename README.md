@@ -34,9 +34,9 @@ pip install -r requirements.txt
 Special thanks to:
 
 * Project Mentor: Tejumade Afonja
-* Contributors: Samuel Oyeneye
+* Contributor: Samuel Oyeneye
 * Libraries and resources: #nowplaying-RS benchmark data
-* Research author: Asmita Poddar and Eva Zangerle and Yi-Hsuan Yang
+* Research authors: Asmita Poddar and Eva Zangerle and Yi-Hsuan Yang
 
 ## Contact
 * Project Maintainer: samueloyeneye1@gmail.com 
